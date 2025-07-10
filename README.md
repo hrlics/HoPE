@@ -21,3 +21,14 @@
 ## :clipboard: Todo
 - [x] Release [paper](https://arxiv.org/abs/2505.20444) on arXiv
 - [ ] Release training code. Stay tuned! 
+
+
+## 📖 Citation
+```
+@article{li2025hope,
+  title={HoPE: Hybrid of Position Embedding for Length Generalization in Vision-Language Models},
+  author={Li, Haoran and Qin, Yingjie and Ou, Baoyuan and Xu, Lai and Xu, Ruiwen},
+  journal={arXiv preprint arXiv:2505.20444},
+  year={2025}
+}
+```
