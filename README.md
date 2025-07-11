@@ -26,6 +26,11 @@ wget https://github.com/huggingface/transformers/archive/refs/tags/v4.45.2.tar.g
 tar -xzf v4.45.2.tar.gz
 ```
 
+2. Install required packages
+```
+bash setup.sh
+```
+
 
 
 ## :clipboard: Todo
