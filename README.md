@@ -13,9 +13,19 @@
 </h5>
 
 
-## 📢 News
+## 🚀 News
 - **\[06/29/2025\]** Our work is covered by [Synced (机器之心)](https://mp.weixin.qq.com/s/KQHGw8_v0rEY8pS7jufRbQ)!
 - **\[05/26/2025\]** Release our paper on [arXiv](https://arxiv.org/abs/2505.20444).
+
+## 🛠️ Requirements
+1. Clone this repository and install `transformers==4.45.2` from source
+```
+git clone https://github.com/hrlics/HoPE.git
+cd HoPE/LLaMA-Factory
+wget https://github.com/huggingface/transformers/archive/refs/tags/v4.45.2.tar.gz
+tar -xzf v4.45.2.tar.gz
+```
+
 
 
 ## :clipboard: Todo
