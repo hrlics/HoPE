@@ -39,6 +39,7 @@ bash setup.sh
 
 
 ## 📖 Citation
+If you find our work helpful, please consider citing 📝 and giving us a star ⭐
 ```
 @article{li2025hope,
   title={HoPE: Hybrid of Position Embedding for Length Generalization in Vision-Language Models},
