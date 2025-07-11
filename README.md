@@ -26,6 +26,10 @@ Extending RoPE to multimodal scenarios typically involves allocating different f
 
 2️⃣ Moreover, we point out that existing temporal index scaling of visual tokens lacks flexibility and robustness during inference, where videos exhibit varying speeds and information densities. To address this, HoPE introduces **Dynamic Temporal Scaling (DTS)**, which enables VLMs to learn multi-scale temporal relationships during training and adaptively select temporal scaling during inference.
 
+<div align="center">
+  <img src="assets/Figure1.png" alt="Figure1" width=70% height=400px/>
+</div>
+
 
 ## 🛠️ Requirements
 1. Clone this repository and install `transformers==4.45.2` from source
