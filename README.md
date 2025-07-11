@@ -28,7 +28,7 @@ tar -xzf v4.45.2.tar.gz
 
 2. Install required packages
 ```
-bash setup.sh
+bash setup_env.sh
 ```
 
 
