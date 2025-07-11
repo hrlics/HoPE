@@ -14,7 +14,7 @@
 
 
 ## 🚀 News
-- **\[06/29/2025\]** Our work is covered by [Synced (机器之心)](https://mp.weixin.qq.com/s/KQHGw8_v0rEY8pS7jufRbQ)!
+- **\[06/29/2025\]** Our work is covered by [JIQIZHIXIN (机器之心)](https://mp.weixin.qq.com/s/KQHGw8_v0rEY8pS7jufRbQ)!
 - **\[05/26/2025\]** Release our paper on [arXiv](https://arxiv.org/abs/2505.20444).
 
 
