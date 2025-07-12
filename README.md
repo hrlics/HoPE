@@ -45,6 +45,11 @@ tar -xzf v4.45.2.tar.gz
 bash setup_env.sh
 ```
 
+3. Replace the code in `HoPE/LLaMA-Factory/transformers-4.45.2/src/transformers/models/qwen2_vl/modeling_qwen2_vl.py` with `HoPE/modeling_hope.py`. The differences are marked with `# MODIFIED`.
+
+
+
+
 
 ## :clipboard: Todo
 - [x] Release [paper](https://arxiv.org/abs/2505.20444) on arXiv
