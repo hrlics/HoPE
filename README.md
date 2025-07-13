@@ -55,7 +55,7 @@ with `HoPE/modeling_hope.py`. The differences are marked with `# MODIFIED`.
 
 ## 🚀 Train
 
-We utilize a subset of [LLaVA-Video-178K](https://huggingface.co/datasets/lmms-lab/LLaVA-Video-178K) as training data, which comprises 30k videos with duration under 2 minutes and 3k videos with durations between 2 to 3 minuts (~300k pairs).
+We utilize a subset of [LLaVA-Video-178K](https://huggingface.co/datasets/lmms-lab/LLaVA-Video-178K) as training data, which comprises 30k videos with durations under 2 minutes and 3k videos with durations between 2 to 3 minuts (~300k pairs).
 
 Under `LLaMA-Factory/`, run the following script to start training:
 ```
