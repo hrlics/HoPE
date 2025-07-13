@@ -96,4 +96,4 @@ If you find our work helpful, please consider citing 📝 and giving us a star �
 ```
 
 ## 🙏 Acknowledgements
-We thank the authors of [Qwen2-VL](https://github.com/QwenLM/Qwen2.5-VL), [VideoRoPE](https://github.com/Wiselnn570/VideoRoPE), [transformers](https://github.com/huggingface/transformers), [LLaMA-Factory](https://github.com/hiyouga/LLaMA-Factory), and [vLLM](https://github.com/vllm-project/vllm) for their wonderful work.
+We thank the authors of [Qwen2-VL](https://github.com/QwenLM/Qwen2.5-VL), [VideoRoPE](https://github.com/Wiselnn570/VideoRoPE), [transformers](https://github.com/huggingface/transformers), [LLaMA-Factory](https://github.com/hiyouga/LLaMA-Factory), [lmms-eval](https://github.com/EvolvingLMMs-Lab/lmms-eval), and [vLLM](https://github.com/vllm-project/vllm) for their wonderful work.
