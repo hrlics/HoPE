@@ -69,7 +69,7 @@ cd lmms-eval
 pip install -e .
 ```
 
-Then, run the following scripts to start evaluations on MLVU, LongVideoBench, and Video-MME:
+Then, run the following script to start evaluations on MLVU, LongVideoBench, and Video-MME:
 ```
 bash eval_LVU.sh
 ```
