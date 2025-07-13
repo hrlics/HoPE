@@ -74,6 +74,9 @@ Then, run the following scripts to start evaluations on MLVU, LongVideoBench, an
 bash eval_LVU.sh
 ```
 
+Adjustments are made to `lmms-eval/lmms_eval/models/qwen2_vl.py` to accomodate Qwen2-VL's training recipe.
+
+
 #### Long Video Retrieval
 
 
