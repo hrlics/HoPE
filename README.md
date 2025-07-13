@@ -59,6 +59,23 @@ train_hope.sh
 ```
 Adjustments are made to `LLaMA-Factory/src/llamafactory/data/mm_plugin.py` to accomodate Qwen2-VL's training recipe.
 
+## 🔍 Evaluation
+
+#### Long Video Understanding
+
+Evaluations on long video understanding are based on [lmms-eval](https://github.com/EvolvingLMMs-Lab/lmms-eval). The first step is to install relevant dependencies: 
+```
+cd lmms-eval
+pip install -e .
+```
+
+Then, run the following scripts to start evaluations on MLVU, LongVideoBench, and Video-MME:
+```
+bash eval_LVU.sh
+```
+
+#### Long Video Retrieval
+
 
 ## :clipboard: Todo
 - [x] Release [paper](https://arxiv.org/abs/2505.20444) on arXiv
