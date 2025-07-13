@@ -57,7 +57,7 @@ Under `LLaMA-Factory/`, run the following script to start training:
 ```
 train_hope.sh
 ```
-Adjustments are made to `LLaMA-Factory/src/llamafactory/data/mm_plugin.py` according to our evaluation configs.
+Adjustments are made to `LLaMA-Factory/src/llamafactory/data/mm_plugin.py` to accomodate Qwen2-VL's training recipe.
 
 ## 🔍 Evaluation
 
@@ -74,8 +74,7 @@ Then, run the following script to start evaluations on MLVU, LongVideoBench, and
 bash eval_LVU.sh
 ```
 
-Adjustments are made to `lmms-eval/lmms_eval/models/qwen2_vl.py` to accomodate Qwen2-VL's training recipe.
-
+Adjustments are made to `lmms-eval/lmms_eval/models/qwen2_vl.py` to accomodate our evaluation configs.
 
 #### Long Video Retrieval
 
