@@ -35,7 +35,7 @@ Extending RoPE to multimodal scenarios typically involves allocating different f
 1. Clone this repository and install `transformers==4.45.2` from source
 ```
 git clone https://github.com/hrlics/HoPE.git
-cd HoPE/LLaMA-Factory
+cd HoPE
 wget https://github.com/huggingface/transformers/archive/refs/tags/v4.45.2.tar.gz
 tar -xzf v4.45.2.tar.gz
 ```
@@ -47,7 +47,7 @@ bash setup_env.sh
 
 3. Replace the code in
 ```
-HoPE/LLaMA-Factory/transformers-4.45.2/src/transformers/models/qwen2_vl/modeling_qwen2_vl.py
+HoPE/transformers-4.45.2/src/transformers/models/qwen2_vl/modeling_qwen2_vl.py
 ```
 with `HoPE/modeling_hope.py`. The differences are marked with `# MODIFIED`.
 
