@@ -57,7 +57,7 @@ Under `LLaMA-Factory/`, run the following script to start training:
 ```
 train_hope.sh
 ```
-Adjustments are made to `LLaMA-Factory/src/llamafactory/data/mm_plugin.py` to accomodate Qwen2-VL's training recipe.
+Adjustments are made to `LLaMA-Factory/src/llamafactory/data/mm_plugin.py` according to our evaluation configs.
 
 ## 🔍 Evaluation
 
