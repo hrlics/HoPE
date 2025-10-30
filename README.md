@@ -2,7 +2,7 @@
   <img src="assets/HoPE.png" alt="HoPE" width="100"/>
 </div>
 
-<h2 align="center" style="font-size: 30px;">HoPE: Hybrid of Position Embedding for Length Generalization in Vision-Language Models</h2>
+<h2 align="center" style="font-size: 30px;">HoPE: Hybrid of Position Embedding for Long Coontext Vision-Language Models</h2>
 
 <h5 align="center">
   
