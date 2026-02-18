@@ -99,7 +99,7 @@ bash eval.sh
 If you find our work helpful, please consider citing 📝 and giving us a star ⭐
 ```
 @article{li2025hope,
-  title={HoPE: Hybrid of Position Embedding for Length Generalization in Vision-Language Models},
+  title={HoPE: Hybrid of Position Embedding for Long Context Vision-Language Models},
   author={Li, Haoran and Qin, Yingjie and Ou, Baoyuan and Xu, Lai and Xu, Ruiwen},
   journal={arXiv preprint arXiv:2505.20444},
   year={2025}
